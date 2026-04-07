@@ -1,5 +1,0 @@
-crewai
-apscheduler
-feedparser
-python-telegram-bot==21.4
-httpx
